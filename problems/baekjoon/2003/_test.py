@@ -8,9 +8,9 @@ params = [
 ]
 
 @pytest.mark.parametrize(args, params)
-def test_mysolution(N, M, seq,expected):
+def test_mysolution(N, M, seq, expected):
     assert mysolution(N, M, seq) == expected
 
-# @pytest.mark.parametrize(args, params)
-# def test_othersolution(N, M, seq, expected):
-#     assert othersolution(N, M, seq) == expected
+@pytest.mark.parametrize(args, params)
+def test_othersolution(N, M, seq, expected):
+    assert othersolution(N, M, seq) == expected
