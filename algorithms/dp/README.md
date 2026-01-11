@@ -31,4 +31,6 @@
 
 
 
-- [ ] [leetcode 1458](../../problems/leetcode/1458/) - Max Dot Product of Two Subsequences- [ ] [leetcode 712](../../problems/leetcode/712/) - Minimum ASCII Delete Sum for Two Strings
+- [ ] [leetcode 1458](../../problems/leetcode/1458/) - Max Dot Product of Two Subsequences
+- [ ] [leetcode 712](../../problems/leetcode/712/) - Minimum ASCII Delete Sum for Two Strings
+- [ ] [baekjoon 85](../../problems/baekjoon/85/) - Maximal Rectangle
