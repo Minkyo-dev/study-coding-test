@@ -2,9 +2,9 @@
 
 ## 핵심 개념
 
-- **메모이제이션**: Top-down (재귀 + 캐싱)
+- **메모이제이션**: Top-down (재귀 + 캐싱) : 이미 계산된 결과를 저장해 두었다가 필요할 때 재사용 하는 기법. 이를 통해 동일한 게산을 반복하지 않아도 되기에 프로그램의 실행 시간을 대폭 줄일 수 있다.
 - **타뷸레이션**: Bottom-up (반복문)
-- **점화식 수립**: 문제를 작은 부분 문제로 분해
+- **점화식 수립**: 문제를 작은 부분 문제로 분해 : 하위 문제들 사이에서 관계를 수학적으로 표현한 식. 이 식을 통해서 다음 단계의 문제 해결에 필요한 값을 이전 단계의 결과로부터 도출할 수 있다.
 
 ### DP 유형
 
@@ -31,4 +31,4 @@
 
 
 
-- [ ] [leetcode 1458](../../problems/leetcode/1458/) - Max Dot Product of Two Subsequences
+- [ ] [leetcode 1458](../../problems/leetcode/1458/) - Max Dot Product of Two Subsequences- [ ] [leetcode 712](../../problems/leetcode/712/) - Minimum ASCII Delete Sum for Two Strings

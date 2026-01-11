@@ -27,4 +27,4 @@
 
 ## 문제 리스트
 
-- [ ] [baekjoon 11399](../../problems/baekjoon/11399/) - ATM
+- [ ] [baekjoon 11399](../../problems/baekjoon/11399/) - ATM- [ ] [baekjoon 2847](../../problems/baekjoon/2847/) - 게임을 만든 동준이

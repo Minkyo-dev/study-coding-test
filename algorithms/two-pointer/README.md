@@ -101,4 +101,4 @@ def two_sum_sorted(arr, target):
 
 ## 문제 리스트
 - [ ] [baekjoon 2003](../../problems/baekjoon/2003/) - sum of numbers 2
-- [ ] [baekjoon 7795](../../problems/baekjoon/7795/) - 먹을 것인가 먹힐 것인가
+- [ ] [baekjoon 7795](../../problems/baekjoon/7795/) - 먹을 것인가 먹힐 것인가- [ ] [baekjoon 2559](../../problems/baekjoon/2559/) - 수열
