@@ -92,4 +92,7 @@ if __name__ == "__main__":
 ```
 
 ## 회고
-<!-- 어려웠던 점, 배운 점 -->
+그리드에서 거리를 계산할 때 많이사용되는 거리 계산 방식이 있음
+- 유클리드 거리 (euclid distance)
+- 맨하탄 거리 (Menhatan distance)
+- 체비셰프 거리 (Chebyshev Distance)

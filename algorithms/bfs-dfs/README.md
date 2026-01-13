@@ -25,4 +25,4 @@
 
 ## 문제 리스트
 
-- [ ] [leetcode 865](../../problems/leetcode/865/) - Smallest Subtree with all the Deepest Nodes
+- [ ] [leetcode 865](../../problems/leetcode/865/) - Smallest Subtree with all the Deepest Nodes- [ ] [baekjoon 1068](../../problems/baekjoon/1068/) - 트리
