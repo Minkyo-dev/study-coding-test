@@ -121,3 +121,4 @@ bisect.insort(arr, 5)
 ## 문제 리스트
 - [ ] [백준 2512](../../problems/baekjoon/2512/) - 예산
 - [ ] [baekjoon 2343](../../problems/baekjoon/2343/) - guitar lesson
+- [ ] [leetcode 3453](../../problems/leetcode/3453/) - Separate Squares 1
