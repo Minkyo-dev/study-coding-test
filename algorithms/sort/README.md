@@ -115,3 +115,4 @@ for k in sorted(cnt):
 ## 문제 리스트
 - [ ] [baekjoon 1946](../../problems/baekjoon/1946/) - new employee
 - [ ] [baekjoon 11728](../../problems/baekjoon/11728/) - concat array
+- [ ] [leetcode 2943](../../problems/leetcode/2943/) - Maximize Area of Square Hole in Grid
