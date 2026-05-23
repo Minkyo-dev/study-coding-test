@@ -59,7 +59,20 @@ prices = [7,6,4,3,1]
 ## 풀이
 
 ### 접근
-<!-- 문제 해결 전략 -->
+```python
+# my initial approach -> time limit exceeded
+def mysolution(prices: List[int]) -> int:
+    end_day = len(prices)
+    max_benefit = 0
+    for day in range(end_day - 1):
+        today_price = prices[day]
+        future_max_price = max(prices[day:])
+        benefit = future_max_price - today_price
+        if benefit > max_benefit:
+            max_benefit = benefit
+    print(max_benefit)      
+    return max_benefit
+```
 
 ### 시간 복잡도
 <!-- 분석 -->
